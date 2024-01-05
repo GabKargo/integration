@@ -1,5 +1,4 @@
 import logo from "./kargo-logo.jpeg";
-
 import "./App.css";
 
 function App() {
